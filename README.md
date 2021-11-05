@@ -1,2 +1,2 @@
 # MachineLearning
-Basic machine learning from Udemy Certification
+Machine learning from Udemy Certification
